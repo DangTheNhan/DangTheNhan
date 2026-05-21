@@ -13,7 +13,8 @@ Hello — I am Dang The Nhan, a student majoring in Software Engineering at East
 ## Featured Project
 - Research And Extension Of Pack A Mal For Malicious Package Analysis
 (In the above project, I worked on the main logic, testing, and algorithm optimization.)
-
+- Project Web: Altesa
+(In the above project, I redesigned a website myself that was referenced from the web sales market.)
 ## Education
 - Eastern International University — Major: Software Engineering
 - IELTS 6.0.
