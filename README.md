@@ -1,4 +1,4 @@
-# Dang The Nhan — IT Student Profile
+# Dang The Nhan
 
 ## Giới thiệu
 Xin chào — mình là Dang The Nhan, sinh viên chuyên ngành Software Engineer tại Eastern International University. Mình đam mê phát triển phần mềm, giải quyết bài toán bằng code và xây dựng sản phẩm có thể dùng được thực tế.
