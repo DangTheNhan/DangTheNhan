@@ -1,35 +1,33 @@
 # Dang The Nhan
 
-## Giới thiệu
-Xin chào — mình là Dang The Nhan, sinh viên chuyên ngành Software Engineer tại Eastern International University. Mình đam mê phát triển phần mềm, giải quyết bài toán bằng code và xây dựng sản phẩm có thể dùng được thực tế.
+## Introduction
+Hello — I am Dang The Nhan, a student majoring in Software Engineering at Eastern International University. I am passionate about software development, solving problems with code, and building products that can be practically used.
 
-## Kỹ năng chính
-- Ngôn ngữ: Java, JavaScript, C#.
-- Web: HTML, CSS, React cơ bản.
-- Mobile / Backend: Kiến thức cơ bản về REST APIs, Node.js
-- Công cụ: Git, Bootstrap, JQuery, MySQL, VS CODE, Visual Studio, AWS Web Service, Cisco Packet Tracer.
-- Kỹ năng mềm: Giải quyết vấn đề, làm việc nhóm, tự học nhanh.
+## Key Skills
+- Languages: Java, JavaScript, C#.
+- Web: HTML, CSS, basic React.
+- Mobile / Backend: Basic knowledge of REST APIs, Node.js
+- Tools: Git, Bootstrap, JQuery, MySQL, VS CODE, Visual Studio, AWS Web Service, Cisco Packet Tracer.
+- Soft skills: Problem solving, teamwork, quick self-learning.
 
-## Dự án nổi bật
-- 
-- LocalNet / Tree utilities: Một vài bài tập lớn về cấu trúc dữ liệu và mạng cục bộ.
+## Featured Project
+- Research And Extension Of Pack A Mal For Malicious Package Analysis
+(In the above project, I worked on the main logic, testing, and algorithm optimization.)
 
-(Trong dự án trên, mình làm phần logic chính, test và tối ưu thuật toán.)
-
-## Học vấn
-- Eastern International University — Chuyên ngành: Software Engineering
+## Education
+- Eastern International University — Major: Software Engineering
 - IELTS 6.0.
-## Hoạt động & Sở thích
-- Tham gia câu lạc bộ lập trình, hackathons trường
-- Đọc sách kỹ thuật, thử nghiệm công nghệ mới
-- Thích cà phê và lập trình ban đêm
 
-## Mục tiêu nghề nghiệp
-- Trở thành một Software Engineer thực thụ, đóng góp vào sản phẩm người dùng thực sự cần.
-- Học thêm về hệ thống phân tán, kiến trúc phần mềm và DevOps.
+## Activities & Hobbies
+- Reading technical books, experimenting with new technology
+- Enjoy coffee and programming at night
+- Enjoy traveling, photography, and sports.
+  
+## Career Goals
+- Become a genuine Software Engineer, contributing to products that users truly need.
+- Learn more about distributed systems, software architecture, and DevOps.
 
-## Liên hệ
+## Contact
 - Email: nhandangthe6104@gmail.com
-- GitHub: (link GitHub nếu có)
-- LinkedIn: (link LinkedIn nếu có)
-
+- GitHub: https://github.com/DangTheNhan
+- LinkedIn: https://www.linkedin.com/in/dang-the-nhann/
