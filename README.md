@@ -33,5 +33,3 @@ Xin chào — mình là Dang The Nhan, sinh viên chuyên ngành Software Engine
 - GitHub: (link GitHub nếu có)
 - LinkedIn: (link LinkedIn nếu có)
 
----
-Mình đã tạo sẵn profile cơ bản này. Nếu bạn muốn thêm: thông tin liên hệ, CV, ảnh, mô tả chi tiết dự án hoặc kỹ năng cụ thể (frameworks, ngôn ngữ khác), hãy cho mình biết để mình cập nhật.
